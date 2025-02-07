@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on Web development full-stack projects.
-🛠️ I'm looking to collaborate on Communities and projects using a similar tech stack.
-🤝 I'm looking for help with Gaining expertise in AI tools and using them efficiently.
-🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation.
-💬 Ask me about Social media handling, trying to learn new things while gaining command over them—Jack of all, master of none.
+🔭 I'm currently working on Web development full-stack projects.<br>
+🛠️ I'm looking to collaborate on Communities and projects using a similar tech stack.<br>
+🤝 I'm looking for help with Gaining expertise in AI tools and using them efficiently.<br>
+🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation.<br>
+💬 Ask me about Social media handling, trying to learn new things while gaining command over them—Jack of all, master of none.<br>
 ⚡ Fun fact I successfully built a Spring Boot application solo, challenging myself to complete it independently.
 
 ## 🌐 Socials:
