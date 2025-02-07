@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Web development full-stack projects.<br><br>🛠️ I'm looking to collaborate on<br>Communities and projects using a similar tech stack.<br><br>🤝 I'm looking for help with<br>Gaining expertise in AI tools and using them efficiently.<br><br>🌱 I'm currently learning<br>Next.js, Tailwind CSS, and medical code automation.<br><br>💬 Ask me about<br>Social media handling, trying to learn new things while gaining command over them—Jack of all, master of none.<br><br>⚡ Fun fact<br>I successfully built a Spring Boot application solo, challenging myself to complete it independently.
-
+🔭 I'm currently working on Web development full-stack projects.
+🛠️ I'm looking to collaborate on Communities and projects using a similar tech stack.
+🤝 I'm looking for help with Gaining expertise in AI tools and using them efficiently.
+🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation.
+💬 Ask me about Social media handling, trying to learn new things while gaining command over them—Jack of all, master of none.
+⚡ Fun fact I successfully built a Spring Boot application solo, challenging myself to complete it independently.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khush_bakht_anwar?igsh=MWtvNHQ4OTUxb3RnNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khush-bakht-anwar-55b2471b5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/khush_bakht52?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushbakhtanwar052@gmail.com) 
