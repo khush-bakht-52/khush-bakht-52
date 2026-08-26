@@ -1,10 +1,14 @@
 # 💫 About Me:
-🔭 I'm currently working on Web development full-stack projects.<br>
-🛠️ I'm looking to collaborate on Communities and projects using a similar tech stack.<br>
-🤝 I'm looking for help with Gaining expertise in AI tools and using them efficiently.<br>
-🌱 I'm currently learning Next.js, Tailwind CSS, and medical code automation.<br>
-💬 Ask me about Social media handling, trying to learn new things while gaining command over them—Jack of all, master of none.<br>
-⚡ Fun fact I successfully built a Spring Boot application solo, challenging myself to complete it independently.
+## Hi, I'm Khush Bakht Anwar 👋
+
+**Software Engineer | Data Analyst | ML/DL, ANN & Digital Image Processing | Ex-HEC Data Analyst Intern | Aspiring MS Researcher**
+
+🔬 Research-driven interest in Machine Learning, Artificial Neural Networks, Deep Learning, and Digital Image Processing — work spans computer vision (Vision Transformers), predictive modeling (ANN), and applied AI systems (OCR-powered health tech).<br>
+🎯 Aiming to pursue graduate research abroad in Computer Science, Data Science, Information Technology, AI, Computer Vision, Digital Image Processing, and other emerging/related tech fields.<br>
+📫 Reach me: khushbakhtanwar052@gmail.com
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khush_bakht_anwar?igsh=MWtvNHQ4OTUxb3RnNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khush-bakht-anwar-55b2471b5/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/khush_bakht52?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushbakhtanwar052@gmail.com) 
